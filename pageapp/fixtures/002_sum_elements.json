@@ -1,0 +1,12 @@
+[
+    {
+        "model":"pageapp.elements",
+        "pk": "1",
+        "fields":{
+            "element_one":"H",
+            "element_two":"O",
+            "result":"H2O",
+            "description":"Это формула воды"
+        }
+    }
+]

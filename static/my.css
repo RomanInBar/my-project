@@ -1,0 +1,64 @@
+.cell {
+    width: 130px;
+    border-style: double;
+    border-color: black;
+    border-width: 3px;
+}
+
+.table {
+    padding-top: 50px;
+}
+
+.row {
+    display: flex;
+}
+
+.elem {
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.name {
+    padding-left: 10px;
+    font-size: 15px
+}
+
+.window {
+    width: 130px;
+    height: 60px;
+    border-style: outset;
+    border-color: blue;
+}
+
+.symbol {
+    border-style: none;
+}
+
+.total {
+    border-style: none;
+}
+
+.plus {
+    font-size: 50px;
+    padding-left: 42px;
+}
+
+.sum {
+    font-size: 50px;
+    padding-left: 42px;
+}
+
+.example {
+    display: flex;
+    padding-top: 50px;
+}
+
+.element {
+    font-size: 40px;
+    padding-left: 35px;
+}
+
+.button {
+    padding: 10px;
+    margin-top: 30px;
+}
